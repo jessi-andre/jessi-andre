@@ -6,7 +6,7 @@
 ```javascript
 const jessi = {
   pronouns: "she" | "her",
-  am:  ['full stack web and mobile developer exploring the cloud ☁️'];
+  am:  ['Full stack web developer'];
   code: [Javascript, HTML, CSS],
   databases  = ['MySQL'];
   tools: [React, Node],
