@@ -1,6 +1,6 @@
-### Hi, I´am Jessi!
+### <h2 align="center"> Hi, I´am Jessi 👋 </h2>
 
-## Full Stack Developer  <img src="https://media.giphy.com/media/PLGtXGjpuYv7HFcMJM/giphy.gif" width="50"></h2> 
+## Full Stack Developer 
 <img align='right' src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="230">
 
 ```javascript
