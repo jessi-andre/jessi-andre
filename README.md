@@ -16,7 +16,7 @@ const jessi = {
   },
   pasiones: ["identidad visual", "accesibilidad", "interfaces creativas"],
   proyectoActual: "forma-fondo",
-  ubicación: "Chile / Argentina 🌎",
+  ubicación: "Argentina",
   portfolio: "https://jessi-andre.github.io/forma-fondo/"
 }
 
