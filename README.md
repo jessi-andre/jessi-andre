@@ -1,16 +1,25 @@
-### <h2 align="center"> Hi, I´am Jessi 👋 </h2>
+### <h2 align="center">Hola, soy Jessi 👋</h2>
 
-## Full Stack Developer 
+## 💻 Full Stack Developer & Diseñadora UI/UX
 <img align='right' src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="230">
 
 ```javascript
 const jessi = {
-  pronouns: "she",
-  am:  ['Full stack web developer'];
-  code: [Javascript, HTML, CSS],
-  databases  = ['MySQL'];
-  tools: [React, Node],
+  nombre: "Jessica Andre",
+  pronombres: "ella",
+  rol: "Desarrolladora Web Full Stack & Diseñadora UI/UX",
+  enfoque: "Diseño y desarrollo con sentido, estilo y funcionalidad",
+  tecnologías: {
+    lenguajes: ["JavaScript", "HTML", "CSS"],
+    herramientas: ["React", "Node.js", "Figma", "VS Code"],
+    baseDeDatos: ["MySQL"]
+  },
+  pasiones: ["identidad visual", "accesibilidad", "interfaces creativas"],
+  proyectoActual: "forma-fondo",
+  ubicación: "Chile / Argentina 🌎",
+  portfolio: "https://jessi-andre.github.io/forma-fondo/"
 }
+
 ```
 ### Languages and Tools: 
 
